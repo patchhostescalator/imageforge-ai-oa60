@@ -1,4 +1,4 @@
-# 
+# Official ImageForge bundle. Download and install with error-handling and cross-platform-support — fast, secure, and easy to use.
 
 
 
